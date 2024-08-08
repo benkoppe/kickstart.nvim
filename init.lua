@@ -302,6 +302,8 @@ require('lazy').setup({
 
   { 'github/copilot.vim' },
 
+  -- { 'DaikyXendo/nvim-material-icon' },
+
   -- flash.nvim
   {
     'folke/flash.nvim',
