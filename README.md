@@ -1,3 +1,5 @@
+My old kickstart config. I use my LazyVim config in place of this.
+
 # kickstart.nvim
 
 ## Introduction
